@@ -1,4 +1,3 @@
-```markdown
 # RUST Actix-Web Login Microservice
 RUST, Actix, Login, Bcrypt, Diesel, SQLite
 
